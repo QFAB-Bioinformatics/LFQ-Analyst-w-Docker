@@ -9,7 +9,7 @@ run: build
 		lfq-analyst;
 
 	sleep 3;
-	firefox 127.0.0.1:8080;
+	firefox 127.0.0.1:3838;
 	firefox 127.0.0.1:3838/users/rstudio;
 	
 stop:
