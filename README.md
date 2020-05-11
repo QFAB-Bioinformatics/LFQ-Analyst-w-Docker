@@ -1,9 +1,10 @@
-** LFQ-Analyst-w-Docker **
+# LFQ-Analyst-w-Docker #
 LFA-Analyst is a shiny app for analysing label-free quantative proteomics.
-[demo](https://bioinformatics.erc.monash.edu/apps/LFQ-Analyst/)
-[Github](https://github.com/MonashBioinformaticsPlatform/LFQ-Analyst)
+- Official LFQ-Analyst Site [demo](https://bioinformatics.erc.monash.edu/apps/LFQ-Analyst/)
+- Source Code [Github](https://github.com/MonashBioinformaticsPlatform/LFQ-Analyst)
 
-** How to Cite LFQ-Analyst? **
+
+# How to Cite LFQ-Analyst? #
 Please Cite: Shah AD, Goode RJA, Huang C, Powell DR, Schittenhelm RB. LFQ-Analyst: An easy-to-use interactive web-platform to analyze and visualize proteomics data preprocessed with MaxQuant. DOI: 0.1021/acs.jproteome.9b00496
 
 
